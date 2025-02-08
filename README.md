@@ -1,4 +1,4 @@
-### Hi there 👋
+### I do me and I code
 
 <!--
 **2XD/2XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
